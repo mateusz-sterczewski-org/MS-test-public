@@ -7,7 +7,6 @@ class A {
             // bearer:expected csharp_lang_weak_hash_sha1
             s.ComputeHash(user.email);
 			s.ComputeHash(user.email);
-			s.ComputeHash(user.email);
 
         }
     }
