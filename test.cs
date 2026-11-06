@@ -8,6 +8,7 @@ class A {
             s.ComputeHash(user.email);
 			s.ComputeHash(user.email);
 			s.ComputeHash(user.email);
+			s.ComputeHash(user.email);
 
         }
     }
