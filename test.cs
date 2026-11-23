@@ -19,3 +19,5 @@ class A {
 		var hashPart64 = BitConverter.ToUInt64(data, 0); // don't trigger on this
     }
 }
+
+// blocking check 2026-11-23T12:03:05Z
